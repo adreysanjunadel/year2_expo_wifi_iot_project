@@ -1,0 +1,22 @@
+#IDE Segments
+.idea
+.history
+.vscode
+
+# Arduino files
+arduino \ WiMaps/
+
+# Expo Files
+WiMapsX/.expo/
+
+#IDE files
+WiMapsX/.idea/
+
+#Android files
+WiMapsX/android/
+
+# Dependencies
+WiMapsX/node_modules/
+
+#Environment variables
+.env

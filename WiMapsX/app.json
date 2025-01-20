@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "WiMapsX",
+    "slug": "WiMapsX",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/WiMaps.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": false,
+    "turboModule":true,
+    "splash": {
+      "image": "./assets/WiMaps.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/WiMaps.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.anonymous.WiMapsX"
+    },
+    "web": {
+      "favicon": "./assets/WiMaps.png"
+    },
+    "scheme": "wimapsx",
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
