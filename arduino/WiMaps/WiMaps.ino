@@ -4,8 +4,8 @@
 #include <HTTPClient.h>
 #include <ArduinoJson.h> 
 
-const char* ssid = "Sanjuna";  // Replace with your WiFi credentials
-const char* password = "sanju038";
+const char* ssid = "YOUR_WIFI_SSID";  // Replace with your WiFi SSID
+const char* password = "YOUR_WIFI_PASSWORD"; // Replace with your WiFi Password
 const char* serverAddress = "https://6101-103-247-50-129.ngrok-free.app/WiMaps/RouterInfoReceived";
 
 void setup() {
